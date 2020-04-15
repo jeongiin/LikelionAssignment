@@ -48,6 +48,8 @@ github :
     git pull --rebase upstream master
 
 2. 팀원에 해당하는 내용 수정 후 자신의 repogitory에 push(add→commit→push)
+    - 수정은 자유 형식! 적힌 내용대로 꼭 안해도 됩니당
+    - 작성은 파일 열어서 채워주셔도 되고 notion에서 작성후 붙여넣기 하셔도 됩니다
 3.  repository에서 pull request보내기
 4. 정인에게 알리기!
 

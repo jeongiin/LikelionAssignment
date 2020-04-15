@@ -37,8 +37,7 @@ github :
 
 
 ## 4/15 과제
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38f474de-3d07-498f-99a2-c20c2cad149c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38f474de-3d07-498f-99a2-c20c2cad149c/Untitled.png)
+https://image.toast.com/aaaadh/real/2017/techblog/github2.png
 
 1. 팀장 repository를 자신의 저장소로 fork 뜨기
 

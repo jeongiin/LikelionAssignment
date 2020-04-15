@@ -36,8 +36,8 @@ github :
 ## 과제
 
 
-## 4/15 과제
-https://image.toast.com/aaaadh/real/2017/techblog/github2.png
+**4/15 과제**
+
 
 1. 팀장 repository를 자신의 저장소로 fork 뜨기
 

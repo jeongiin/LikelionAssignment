@@ -15,13 +15,13 @@ github : [https://github.com/jeongiin](https://github.com/jeongiin)
 
 **임지호**
 
-좋아하는 것 :
+좋아하는 것 : 고기
 
-싫어하는 것 :
+싫어하는 것 : 버섯
 
-각오 :
+각오 : 열심히 하겠습니다 파이팅!~!~!!
 
-github :
+github : https://github.com/jiho527
 
 **김주은**
 

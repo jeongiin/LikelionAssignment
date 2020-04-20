@@ -25,13 +25,13 @@ github : https://github.com/jiho527
 
 **김주은**
 
-좋아하는 것 :
+좋아하는 것 : 초밥
 
-싫어하는 것 :
+싫어하는 것 : 토마토
 
-각오 :
+각오 : 다같이 으쌰으쌰하며 좋은 결과물 만들어봅시당~ 화이팅!
 
-github :
+github : https://github.com/JJuniess
 
 ## 과제
 

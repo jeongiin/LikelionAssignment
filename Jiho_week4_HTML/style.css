@@ -1,0 +1,90 @@
+#title a {
+			text-decoration: none;
+			color: black;
+		}
+
+h3 {
+	color: black;
+}
+
+
+body {
+	margin: 0;
+}
+
+#title {
+	color: #4c4141;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: #ccffdc;
+}
+
+#topMenu ul{
+	height: 35px;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	background-color: #ffe6e6;
+	overflow: hidden;
+}
+
+#topMenu li {
+	float: left;
+}
+
+#topMenu li .menuLink {
+	text-decoration: none;
+	display: block;
+	color: #ff9999;
+	padding: 8px;
+	font-weight: bold;
+	text-align:center;
+}
+
+#topMenu .menuLink:hover {
+	color: white;
+	background-color: #ffb3b3;
+}
+
+.MyProfile {
+	background-color:white;
+}
+
+.introduce {
+	background-color: #fff9dc;
+	margin-top: 50px;
+	width: 655px;
+	padding-bottom: 10px;
+}
+
+.five {
+	width: 50px;
+}
+
+.link {
+	padding: 10px;
+}
+
+.inputService {
+	background-image: url("SMU_Likelion.png");
+	background-repeat: no-repeat;
+	background-size: 500px 500px;
+	background-position: center;
+}
+
+.MyInput {
+	width: 500px;
+	background-color: white;
+	opacity: .8;
+}
+
+.loginForm {
+	background-color: #d6d6d6;
+	opacity: .9;
+	width: 300px;
+	padding: 10px;
+	padding-bottom: 20px;
+	padding-top: 1px;
+}

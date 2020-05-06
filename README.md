@@ -65,4 +65,5 @@ github : https://github.com/JJuniess
 4. git 자신의 브랜치를 생성한 후 자신의 브랜치에 정리한 노션url이나 md 파일 커밋
 5. 3,4가 잘 안되거나 어려울 시 질문 혹은 이슈에 올리기
 
-임지호 노션 url : https://www.notion.so/REST-API-fefba6727d2f480893ce850106434655
+- 임지호 노션 url : https://www.notion.so/REST-API-fefba6727d2f480893ce850106434655
+- 김주은 노션 url : https://www.notion.so/REST-API-2511af1d9f194b69aaba8c0a41419735

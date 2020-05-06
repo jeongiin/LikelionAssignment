@@ -1,0 +1,52 @@
+.MyProfile {
+	background-color: pink;
+}
+
+.introduce {
+	background-color: white;
+	margin: 50px; 
+}
+
+.keyword {
+	background-color: white;
+	margin: 50px; 
+}
+
+.value {
+	background-color: white;
+	margin: 50px; 
+}
+
+.favorite {
+	background-color: white;
+	margin: 50px; 
+}
+
+.fivekeyword{
+	width: 250px;
+}
+
+.fiverank{
+	width: 100px;
+}
+
+.link{
+	padding: 50px;
+}
+
+.inputService{
+	background-image: url("smu.png");
+}
+
+.MyInput {
+	width: 500px;
+	background-color: gray;
+	opacity: .9;
+}
+
+.loginForm{
+	background-color: gray;
+	width: 300px;
+	opacity: .9;
+	padding: 10px;
+}
